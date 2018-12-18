@@ -15,6 +15,8 @@
 * Visual Studio Code
 * mLab
 * Heroku
+* Mocha
+* Chai
 
 ### Code and Guides Used
 * The Complete Node.js Developer Course (2nd Edition)
